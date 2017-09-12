@@ -2,7 +2,7 @@
 
 Welcom to my portfolio. For additional resources, please checkout the below links:
 
-- My Professional Blog: http://okbsmc.blogspot.com/
+- [My Professional Blog](http://okbsmc.blogspot.com/)
   - This blogfollows my undergraduate courses in the Education Department at Saint Michael’s College.
 - My instructional toolkit of professional practices can be found [here](https://docs.google.com/document/d/1AOvktZISRpusVUqFk2guue171NJWmE4rBgjBHbh1hfY/edit?usp=sharing).
 
